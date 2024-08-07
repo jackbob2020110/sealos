@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/a7b7ed5c-0e31-4158-8a76-3b161ed70a70
 <p align="center">
   <a href="https://sealos.io/docs/Intro">Docs</a> |
   <a href="./README_zh.md">简体中文</a> | 
-  <a href="https://github.com/orgs/labring/projects/4/views/9">Roadmap</a>
+  <a href="https://github.com/orgs/labring/projects/4/views/9">Roadmap </a>
 </p>
 
 Sealos['siːləs] is a cloud operating system distribution based on the Kubernetes kernel. Using the cloud like using a personal computer, reducing the cost of the cloud to 1/10 of the original.
